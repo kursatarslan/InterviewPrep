@@ -1,0 +1,47 @@
+Thank you for the opportunity to discuss my application for the Engineering Lead position. 
+I am excited about the prospect of contributing to Deloitte's esteemed UK Digital Services team, 
+especially given the team's commitment to creating consumer-grade digital experiences.
+
+With over a decade of leadership experience in the software development industry, 
+I bring a wealth of knowledge in .NET and Python, specifically in building scalable web and native applications on cloud platforms.
+My technical journey has been marked by a deep involvement in the intricacies of cryptocurrency platforms and trading engine architecture, 
+which aligns well with Deloitte's innovative and future-forward ethos.
+
+At my current position with Himalaya Exchange,
+I have led a team towards transforming our front-end work into a React-based micro-frontend architecture, 
+all while managing a robust CI/CD pipeline that utilizes AWS EKS and ArgoCD for deployment. 
+This experience has honed my skills in fostering a culture of accountability and self-organization, 
+which I understand is pivotal to the role at Deloitte.
+
+I am particularly drawn to Deloitte's values of leadership, integrity, care, inclusion, and collaboration. I believe my proactive approach in recommending and implementing enhancements to delivery processes, coupled with my technical and product development thought leadership, positions me to effectively contribute to your team.
+
+Moreover, my hands-on experience with Azure PaaS services, Azure SQL DB, and DevOps practices, augmented by a strong foundation in programming languages like .NET Core, C#, T-SQL, and JavaScript, equips me to take on the technical challenges inherent in this role. I am adept at architectural design, identifying emerging risks, and providing technical guidance to scrum teams—skills that I am eager to bring to the Digital Services team.
+
+In addition to my technical acumen, I am a strong communicator and decision-maker, and I invest time in developing individuals within my team. I believe in leading by example and am keen on taking mentorship roles to nurture the next generation of developers.
+
+I am excited about the possibility of bringing my blend of experience, leadership, and passion for technology to Deloitte, and I look forward to contributing to a firm where innovation, growth, and excellence are at the forefront.
+
+
+
+
+In my current role as Head of Development at Hamilton Capital Holding, I oversee the strategic planning and execution of our software architecture, 
+leading the development efforts from concept through to deployment. My role is multifaceted, combining the oversight of our team's efforts with active, hands-on coding and system design.
+
+I spearheaded the design of our system's architecture, laying a strong foundation with .NET Core and a React-based frontend. 
+My approach was to create a robust, scalable solution tailored to the financial services sector's complex and dynamic requirements. 
+With a focus on microservices, I developed a template for our .NET WebAPI that would streamline our development process and ensure consistency across services.
+
+A key part of our system is the API Gateway, which I developed to manage a multitude of microservices, ensuring secure, efficient operations. 
+It acts as a crucial entry point in our system, routing requests to the appropriate services and providing an additional layer of security.
+
+To handle communication between our microservices, 
+I implemented an EventBus system utilizing MassTransit. This allows for a seamless, event-driven approach that enhances the scalability and resilience of our applications. 
+It's particularly beneficial in a financial context where real-time data and transactions are paramount.
+
+Throughout all of this, my role has been hands-on. Not only have I been involved in the decision-making and architectural design, 
+but I've also been directly coding these components and working alongside my team to integrate them into our broader system. 
+This practical involvement has allowed me to maintain a deep understanding of our technology stack 
+and the needs of our development team, ensuring that our solutions are not only theoretically sound but also pragmatically effective.
+
+In essence, my role as Head of Development is to ensure that our technology strategy aligns with business objectives, 
+leading by example and providing technical expertise to deliver applications that drive the company forward.
